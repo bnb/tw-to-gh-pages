@@ -1,0 +1,34 @@
+{
+  "name": "tw-to-gh-pages-mvp",
+  "version": "0.1.0",
+  "description": "MVP for publishing TW to gh-pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnb/tw-to-gh-pages-mvp.git"
+  },
+  "keywords": [
+    "tw",
+    "tiddlywiki",
+    "git",
+    "gh-pages",
+    "publish",
+    "deploy",
+    "tw5",
+    "suny",
+    "sunypoly"
+  ],
+  "author": "Tierney Coren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnb/tw-to-gh-pages-mvp/issues"
+  },
+  "homepage": "https://github.com/bnb/tw-to-gh-pages-mvp#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
